@@ -1,7 +1,9 @@
+package cc;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Bai2TongHaiMang {
+public class Bai2_tong_2_mang {
     public static long[] sumArrays(int[] first, int[] second) {
         int length = Math.max(first.length, second.length);
         long[] sums = new long[length];

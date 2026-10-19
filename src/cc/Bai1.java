@@ -1,6 +1,8 @@
+package cc;
+
 import java.util.Scanner;
 
-public class Bai1TongMang {
+public class Bai1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

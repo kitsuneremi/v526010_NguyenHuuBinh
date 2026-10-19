@@ -1,6 +1,8 @@
+package cc;
+
 import java.util.Scanner;
 
-public class Bai3NhapMangMotDong {
+public class Bai3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap cac so nguyen tren mot dong, cach nhau boi dau cach:");
